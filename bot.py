@@ -8,7 +8,7 @@ import time
 
 #
 # Replace with your actual token
-TOKEN = "MTUwOTA4NjQwMjM4ODgyNDE5NA.G7H_1U.VqCX9GsLyyaRyUzsLNmHyNWCuXBQuGjPIThkB8"
+TOKEN = "ADD your token"
 
 intents = discord.Intents.default()
 intents.message_content = True  # Required to read message text
